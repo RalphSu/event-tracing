@@ -23,6 +23,14 @@
  https://eli.thegreenplace.net/2018/understanding-how-to-implement-a-character-based-rnn-language-model/
  
  
+### VAE 
+
+https://anotherdatum.com/vae.html
+
+https://anotherdatum.com/vae2.html
+
+ 
+ 
 ##### How to build AI platform
 
 https://medium.com/@louisdorard/an-overview-of-ml-development-platforms-df953060b9a9 这里有几个分类有点意思

@@ -1,11 +1,11 @@
 时序数据的异常检测阅读列表
 
-#1. 
+## 1. 
  S-H-ESD 大体流程: https://www.cnblogs.com/en-heng/p/9202654.html
  
  其中：Grubbs' Test的分布公式的原因需要进一步理解其理论依据
  
-#2.
+## 2.
 
  SHESD中用到典型的时序分解手法：STL，算法细节
  
@@ -14,7 +14,7 @@
  http://www.gardner.fyi/blog/STL-Part-II/
 
 
-#N RNN
+## 3. RNN
  
  https://zybuluo.com/hanbingtao/note/541458
  
@@ -22,6 +22,9 @@
  
  https://eli.thegreenplace.net/2018/understanding-how-to-implement-a-character-based-rnn-language-model/
  
+## 4. Overall introduction
+
+https://zybuluo.com/hanbingtao/note/541458
  
 ### VAE 
 
@@ -31,7 +34,7 @@ https://anotherdatum.com/vae2.html
 
  
  
-##### How to build AI platform
+### How to build AI platform
 
 https://medium.com/@louisdorard/an-overview-of-ml-development-platforms-df953060b9a9 这里有几个分类有点意思
 

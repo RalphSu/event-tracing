@@ -15,6 +15,7 @@
  
  PartII 比较详细的介绍了算法过程，不过实际撸还是得参考代码： https://github.com/jrmontag/STLDecompose
 
+ https://arxiv.org/pdf/2008.09245.pdf  Mediff的做法
 
 ## 3. RNN
  

@@ -12,6 +12,8 @@
  http://www.gardner.fyi/blog/STL-Part-I/
  
  http://www.gardner.fyi/blog/STL-Part-II/
+ 
+ PartII 比较详细的介绍了算法过程，不过实际撸还是得参考代码： https://github.com/jrmontag/STLDecompose
 
 
 ## 3. RNN

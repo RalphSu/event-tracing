@@ -25,11 +25,9 @@
  
  https://eli.thegreenplace.net/2018/understanding-how-to-implement-a-character-based-rnn-language-model/
  
-## 4. Overall introduction
 
-https://zybuluo.com/hanbingtao/note/541458
  
-### VAE 
+## 4. VAE 
 
 https://anotherdatum.com/vae.html
 

@@ -3,7 +3,7 @@
 ## 1. 
  S-H-ESD 大体流程: https://www.cnblogs.com/en-heng/p/9202654.html
  
- 其中：Grubbs' Test的分布公式的原因需要进一步理解其理论依据
+ 其中：Grubbs' Test的分布公式的原因需要进一步理解其理论依据：可以参考这里https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h3.htm
  
 ## 2.
 

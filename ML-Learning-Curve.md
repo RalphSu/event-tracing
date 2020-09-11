@@ -34,6 +34,26 @@ https://anotherdatum.com/vae.html
 https://anotherdatum.com/vae2.html
 
 
+## 5. 
+https://github.com/yzhao062/anomaly-detection-resources anomaly detection collections!
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152173 A Comparative Evaluation of Unsupervised Anomaly Detection Algorithms for Multivariate Data
+
+
+Unsupervised Anomaly Detection Approach for
+Time-Series in Multi-Domains Using Deep
+Reconstruction Error - 
+
+## 6. Survey as overall introduction in this domain
+
+ANOMALY DETECTION IN UNIVARIATE TIME-SERIES: A SURVEY ON THE STATE-OF-THE-ART - Should be a good read.
+
+https://www.dfki.de/fileadmin/user_upload/import/10754_comparative_anomaly_detection_ICMLA.pdf : A Comparative Analysis of Traditional and Deep
+Learning-based Anomaly Detection Methods for
+Streaming Data
+
+https://www.researchgate.net/publication/252671230_A_Comparative_Evaluation_of_Anomaly_Detection_Algorithms_for_Maritime_Video_Surveillance : A Comparative Evaluation of Anomaly Detection Algorithms for Maritime Video Surveillance
+
 
 #### 2020 KDD
 

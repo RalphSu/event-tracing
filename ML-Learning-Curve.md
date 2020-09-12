@@ -27,11 +27,19 @@
  
 
  
-## 4. VAE 
+## 4. Autoencoder & VAE
 
 https://anotherdatum.com/vae.html
 
 https://anotherdatum.com/vae2.html
+
+https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726
+
+http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
+
+https://zhuanlan.zhihu.com/p/27865705
+
+https://medium.com/ai-academy-taiwan/what-are-autoencoders-175b474d74d1
 
 
 ## 5. 
@@ -43,6 +51,11 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152173 A Comp
 Unsupervised Anomaly Detection Approach for
 Time-Series in Multi-Domains Using Deep
 Reconstruction Error - 
+
+## 7 Omni
+
+https://www.kdd.org/kdd2019/accepted-papers/view/robust-anomaly-detection-for-multivariate-time-series-through-stochastic-re
+
 
 ## 6. Survey as overall introduction in this domain
 

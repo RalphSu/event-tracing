@@ -70,6 +70,8 @@ https://www.researchgate.net/publication/252671230_A_Comparative_Evaluation_of_A
 ## 7. ARIMA 
 - TODO : an internal session
 
+https://towardsdatascience.com/anomaly-detection-in-multivariate-time-series-with-var-2130f276e5e9?gi=7120f7e8e30a
+
 
 #### 2020 KDD
 

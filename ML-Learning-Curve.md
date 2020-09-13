@@ -67,6 +67,9 @@ Streaming Data
 
 https://www.researchgate.net/publication/252671230_A_Comparative_Evaluation_of_Anomaly_Detection_Algorithms_for_Maritime_Video_Surveillance : A Comparative Evaluation of Anomaly Detection Algorithms for Maritime Video Surveillance
 
+## 7. ARIMA 
+- TODO : an internal session
+
 
 #### 2020 KDD
 

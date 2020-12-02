@@ -59,7 +59,7 @@ https://www.kdd.org/kdd2019/accepted-papers/view/robust-anomaly-detection-for-mu
 
 ## 6. Survey as overall introduction in this domain
 
-ANOMALY DETECTION IN UNIVARIATE TIME-SERIES: A SURVEY ON THE STATE-OF-THE-ART - Should be a good read.
+ANOMALY DETECTION IN UNIVARIATE TIME-SERIES: A SURVEY ON THE STATE-OF-THE-ART - Should be a good read. - Done https://arxiv.org/pdf/2004.00433.pdf 把这个看完了，各种方法写的还挺齐全的。2020.4的论文，基本上的AD算法都cover了，可以按图索骥深入学习，比如iforest, xgboost
 
 https://www.dfki.de/fileadmin/user_upload/import/10754_comparative_anomaly_detection_ICMLA.pdf : A Comparative Analysis of Traditional and Deep
 Learning-based Anomaly Detection Methods for

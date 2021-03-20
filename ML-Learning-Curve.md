@@ -75,6 +75,9 @@ Book: OUTLIER ANALYSIS: Second Edition (2017)
 
 https://towardsdatascience.com/anomaly-detection-in-multivariate-time-series-with-var-2130f276e5e9?gi=7120f7e8e30a
 
+### 8 . Outlier Detection in Sparse Data with Factorization Machines
+
+http://mashuai.buaa.edu.cn/pubs/cikm2017b.pdf 
 
 #### 2020 KDD
 

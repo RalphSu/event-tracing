@@ -41,6 +41,7 @@ https://zhuanlan.zhihu.com/p/27865705
 
 https://medium.com/ai-academy-taiwan/what-are-autoencoders-175b474d74d1
 
+https://medium.com/analytics-vidhya/an-introduction-to-generative-deep-learning-792e93d1c6d4
 
 ## 5. 
 https://github.com/yzhao062/anomaly-detection-resources anomaly detection collections!

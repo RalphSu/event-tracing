@@ -33,6 +33,7 @@ https://anotherdatum.com/vae.html
 
 https://anotherdatum.com/vae2.html
 
+
 https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726
 
 http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
@@ -129,5 +130,9 @@ https://medium.com/@louisdorard/an-overview-of-ml-development-platforms-df953060
 https://medium.com/@louisdorard/architecture-of-a-real-world-machine-learning-system-795254bec646 --系列二 - Done
 
 
+
+### MISC
+
+https://reader.elsevier.com/reader/sd/pii/S1877050916325054?token=73C24F08E8C60824D0EAE907984147899D3B261DDEA6B2F304D83AF14EFB41844520916784E2A43E3DFA6BA9A2825747&originRegion=us-east-1&originCreation=20210403000352
 
 

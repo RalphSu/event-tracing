@@ -125,6 +125,21 @@ https://medium.com/@louisdorard/an-overview-of-ml-development-platforms-df953060
 https://medium.com/@louisdorard/architecture-of-a-real-world-machine-learning-system-795254bec646 --系列二 - Done
 
 
+## Dimensional drill down
+
+drill down 的两篇文章：
+
+(1) https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-bhagwan.pdf (wiki)
+
+这一篇速度快，但是只能drill down到第一层
+（即只能找到是哪条，或者哪几条是异常。不能继续往下钻。比如只能分析出根因是{site=US},{site=GB}和{app=Android}这种单一维度的timeseries，不能分析出根因是{site=US, app=Android}这种维度组合）
+
+(2) https://netman.aiops.org/wp-content/uploads/2018/02/sun_IEEEAccess_HotSpot.pdf (wiki)
+
+能够做维度组合，一直钻到底。
+最终的算法是两篇文章的组合，第一篇找第一层的速度比较快，准确率也高，所以钻取第一层用第一篇文章的方法，然后从第二层开始继续往下钻用第二篇文章的方法。
+
+
 
 ### MISC
 

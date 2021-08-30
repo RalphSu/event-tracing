@@ -81,34 +81,10 @@ https://towardsdatascience.com/anomaly-detection-in-multivariate-time-series-wit
 
 http://mashuai.buaa.edu.cn/pubs/cikm2017b.pdf 
 
-#### 2020 KDD
 
+### 9. 
+https://towardsdatascience.com/anomaly-detection-with-time-series-forecasting-c34c6d04b24a
 
-- Isolation Distributional Kernel: A New Tool for Kernel based Anomaly Detection
-
-    Kai Ming Ting Bi-Cun Xu Takashi Washio Zhi-Hua Zhou 
-
-
-- Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks
-
-    Zonghan Wu Shirui Pan Guodong Long Jing Jiang Xiaojun Chang Chengqi Zhang 
-
-- Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns
-
-    Qingsong Wen Zhe Zhang Yan Li Liang Sun 
-
-- USAD: UnSupervised Anomaly Detection on Multivariate Time Series
-
-    Julien Audibert Pietro Michiardi Frédéric Guyard Sébastien Marti Maria A. Zuluaga 
-
-- Robust Deep Learning Methods for Anomaly Detection
-
-    Raghavendra Chalapathy Nguyen Lu Dang Khoa Sanjay Chawla 
-
-- Deep Learning for Anomaly Detection
-
-    Ruoying Wang Kexin Nie Yen-Jung Chang Xinwei Gong Tie Wang Yang Yang Bo Long 
- 
  
 ### How to build AI platform
 

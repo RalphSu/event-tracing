@@ -122,3 +122,9 @@ drill down 的两篇文章：
 https://reader.elsevier.com/reader/sd/pii/S1877050916325054?token=73C24F08E8C60824D0EAE907984147899D3B261DDEA6B2F304D83AF14EFB41844520916784E2A43E3DFA6BA9A2825747&originRegion=us-east-1&originCreation=20210403000352
 
 https://arxiv.org/pdf/1810.13306.pdf Auto ML
+
+
+### AI ops marketing
+
+https://martinliu.cn/blog/market-guide-for-aiops-platforms-2021/
+
